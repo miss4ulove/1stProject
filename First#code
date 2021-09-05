@@ -1,4 +1,0 @@
-Name = watermelon
-Age = 25
-
-Print(f"{watermelon}, + {age})

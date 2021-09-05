@@ -1,0 +1,4 @@
+Name = "watermelon"
+Age = (25)
+
+print (f"{Name} , {Age}")
